@@ -1,0 +1,2 @@
+# sanskrati
+a wordpress portal
